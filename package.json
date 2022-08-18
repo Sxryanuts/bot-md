@@ -1,7 +1,7 @@
 {
-    "name": "Raxcel-MD",
+    "name": "SkyBot",
     "version": "2.2.5",
-    "description": "Simple Bot WhatsApp with Baileys Multi Device",
+    "description": "Sekay",
     "depecrated": false,
     "main": "index.js",
     "directories": {
